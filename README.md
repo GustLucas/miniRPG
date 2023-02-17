@@ -99,3 +99,7 @@ Ao chamar merlin.envenenar(), merlin fica envenenado.
 Um personagem envenenado toma 10 de dano a cada ataque que ele FAZ. O antidoto remove o veneno.
 
 O Bárbaro, porém, não sofre os efeitos do veneno
+
+(as regras e o modo de jogo foram criadas pelo meu professor, eu apenas fiz o codigo.)
+
+FIM!
